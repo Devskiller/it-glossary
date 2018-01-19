@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* General Terms
+* [General Terms](general-terms.md)
 * [Culture](culture.md)
 * [Roles](roles.md)
 * [Programming Languages](programming-languages.md)
