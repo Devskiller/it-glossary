@@ -6,9 +6,9 @@ is a language used by programmers to instruct a computer to perform a certain jo
 
 ## Source code
 
-is a set of instructions and statements written by a programmer using  computer programming language. This code is later translated into machine language \(binary code\) by a compiler. Source code is the only stage where a programmer can read and modify a computer program. Read more: Wikipedia
+is a set of instructions and statements written by a programmer using computer programming language. This code is later translated into machine language \(binary code\) by a compiler. The cource code is the only stage where a programmer can read and modify a computer program. Read more: Wikipedia
 
-720×90 tech recuitment certification course
+720×90 tech recruitment certification course
 
 ## Framework
 
