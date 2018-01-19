@@ -6,13 +6,11 @@ is a language used by programmers to instruct a computer to perform a certain jo
 
 ## Source code
 
-is a set of instructions and statements written by a programmer using computer programming language. This code is later translated into machine language \(binary code\) by a compiler. The cource code is the only stage where a programmer can read and modify a computer program. Read more: Wikipedia
-
-720×90 tech recruitment certification course
+is a set of instructions and statements written by a programmer using computer programming language. This code is later translated into machine language \(binary code\) by a compiler. The cource code is the only stage where a programmer can read and modify a computer program. Read more: [Wikipedia](https://en.wikipedia.org/wiki/Source_code)
 
 ## Framework
 
-is code that is already written and covers low\(er\) level, generic functionalities so programmers can selectively change it with additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications. It consists of many predefined solutions for common functionalities that are used to help build software applications, products, solutions on top of it. Using a framework, developers don’t have to write all the functionalities of the software that they are working on because they are already implemented in the framework and ready to use them with a single command. Frameworks can improve developer productivity as well as the quality, reliability and robustness of new software. Thus, knowledge of frameworks for a specific job is one of the most important skills of a developer. Examples: Bootstrap, React, Spring Framework, Rails, Symfony. Read more: Wikipedia
+is code that is already written and covers low\(er\) level, generic functionalities so programmers can selectively change it with additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications. It consists of many predefined solutions for common functionalities that are used to help build software applications, products, solutions on top of it. Using a framework, developers don’t have to write all the functionalities of the software that they are working on because they are already implemented in the framework and ready to use them with a single command. Frameworks can improve developer productivity as well as the quality, reliability and robustness of new software. Thus, knowledge of frameworks for a specific job is one of the most important skills of a developer. Examples: Bootstrap, React, Spring Framework, Rails, Symfony. Read more: [Wikipedia](https://en.wikipedia.org/wiki/Software_framework)
 
 ## Library
 
