@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [General terms](/general-terms.md)
+* General Terms
 * [Culture](culture.md)
 * [Roles](roles.md)
 
